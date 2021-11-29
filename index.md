@@ -7,8 +7,8 @@ We develop interactive medical dashboards in close collaboration with clinicians
 3. Non-muscle invasive bladder cancer
 4. Prostate cancer
 
-### Note edito
-We offer an intuitive note for healthcare professionals. For more info, please reach out to us on info@tiro.health
+### Note editor
+We offer an intuitive note for healthcare professionals. For more info, please reach out to [us](info@tiro.health)
 
 ### Support or Contact
 
