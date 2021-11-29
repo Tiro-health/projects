@@ -1,10 +1,14 @@
-## Welcome to Tiro.health project overiview
+## Welcome to Tiro.health project overview
 
 ### Dashboards
+We develop interactive medical dashboards in close collaboration with clinicians. Clients can access dashboards via their preferred browser in a secure way via following links.
 1. Colorectal surgery
 2. Hernia repair surgery
 3. Non-muscle invasive bladder cancer
 4. Prostate cancer
+
+### Note edito
+We offer an intuitive note for healthcare professionals. For more info, please reach out to us on info@tiro.health
 
 ### Support or Contact
 
