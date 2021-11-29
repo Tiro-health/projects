@@ -8,7 +8,7 @@ We develop interactive medical dashboards in close collaboration with clinicians
 4. Prostate cancer
 
 ### Note editor
-We offer an intuitive note for healthcare professionals. For more info, please reach out to [us](info@tiro.health)
+We offer an intuitive note for healthcare professionals. For more info, please reach out to [us](mailto:info@tiro.health)
 
 ### Support or Contact
 
